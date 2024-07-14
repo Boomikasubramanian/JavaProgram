@@ -15,7 +15,7 @@ class Node{
 }
 
 
-public class LinkedList
+public class Linkedlist
 
 {
     //Function to add new node in linked list
