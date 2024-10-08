@@ -1,0 +1,9 @@
+import java.util.*;
+class canopy {
+    public static void main(String[] args) {
+        Scanner obj = new Scanner(System.in);
+        int n = obj.nextInt();
+       double area = Math.PI *( n * n);
+        System.out.printf("%.0f",area);
+    }
+}
